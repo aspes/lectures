@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aspes/lectures/HEAD)
+
 # Agile Hardware Design Course Lectures
 
 There are the released lectures from a course at UC Santa Cruz ([CSE 228A](https://classes.soe.ucsc.edu/cse228a/Winter24/)). They are Jupyter notebooks, so one can execute code and see the result directly in the slides.
